@@ -1,0 +1,20 @@
+body
+{
+	background: linear-gradient(lightblue,white,lightblue,white,lightblue);
+}
+.table-responsive{margin-top:25px;}
+#sr{
+   height: 25px;
+}
+footer{
+   position: fixed;
+   bottom: 0;
+}
+th{
+    color:darkred;
+}
+td{
+    color: brown;
+    text-align: center;
+}
+

@@ -1,0 +1,18 @@
+body{
+	background-image: url(../images/chanels11.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+section{
+ background-color: rgba(101, 98, 98, 0.5);
+}
+
+form a{
+	color:black;
+}
+
+footer{
+	margin : 2% 2% 2% 2%;
+
+}

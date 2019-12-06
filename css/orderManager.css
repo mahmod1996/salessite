@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(#f9f2f4,#e8e8e8,#f9f2f4);
+}
+.table-responsive{margin-top:25px;}
+#sr{
+    height: 25px;
+}
+footer{
+    position: fixed;
+    bottom: 0;
+}
+th{
+    color:darkred;
+}
+td{
+    color: brown;
+    text-align: center;
+}

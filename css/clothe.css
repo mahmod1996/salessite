@@ -1,0 +1,20 @@
+/*MajdiAbolil&&MahmodSawaid*/
+body
+{
+	background: linear-gradient(white,#e6e6e6,white);
+}
+img{
+	max-height: 200px;
+	height:200px;
+}
+.product_view .modal-dialog{max-width: 800px; width: 100%;}
+.pre-cost{text-decoration: line-through; color: #a5a5a5;}
+.space-ten{padding: 10px 0;}
+
+.thumbnail {
+	background-color: rgba(255, 0, 0, 1);
+}
+footer{
+	position: fixed;
+	bottom: 0;
+}

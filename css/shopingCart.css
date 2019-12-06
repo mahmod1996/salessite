@@ -1,0 +1,31 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	background-image: url(../images/chanels11.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+section{
+ background-color: rgba(101, 98, 98, 0.5);
+}
+
+form a{
+	color:black;
+}
+
+footer{
+	position: fixed;
+	bottom: 0;
+}
+#tab{
+	margin-right:50%;
+}
+th{
+	color:darkred;
+}
+td{
+	color: brown;
+	text-align: center;
+}

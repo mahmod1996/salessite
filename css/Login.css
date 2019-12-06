@@ -1,0 +1,18 @@
+body
+{
+	background: linear-gradient(lightblue,white,lightblue,white,lightblue);
+}
+footer{
+	margin: 10px;
+	text-align: right; 	
+}
+.jumbotron{
+	background-color:snow;
+}
+
+#con{
+	margin-top : 10%;
+}
+#contact{
+	float:left;
+}

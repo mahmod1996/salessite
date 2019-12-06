@@ -1,0 +1,69 @@
+/*Now the styles*/
+body{
+	font-style:italic;
+	background-image:url(../images/background.jpg);
+  background-size: cover;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+.accordian {
+    width: 50%;
+    height: 150px;
+    overflow: hidden;
+
+    /*Time for some styling*/
+    margin: 100px auto;
+    box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+    -webkit-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+    -moz-box-shadow: 0 0 10px 1px rgba(0, 0, 0, 0.35);
+}
+
+
+.accordian ul {
+    width: 100%;
+}
+
+.accordian li {
+	
+    display: block;
+    width: 33%;
+	
+    float: left;
+    
+
+    box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+    -moz-box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.5);
+
+    /*Transitions to give animation effect*/
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    /*If you hover on the images now you should be able to
+    see the basic accordian*/
+}
+
+/*Reduce with of un-hovered elements*/
+.accordian ul:hover li {width: 10%;}
+/*Lets apply hover effects now*/
+/*The LI hover style should override the UL hover style*/
+.accordian ul li:hover {width: 60%;}
+
+footer {
+    padding: 20px;
+    font-size: 1.5em;
+    text-align: left;
+	color:#fff;
+    background: linear-gradient(#e0f2be,#b9def0,#c0a16b,#bce8f1);
+}
+footer img {
+    display: inline-block;
+
+    vertical-align: middle;
+
+    width: 10%;
+    min-width: 20px;
+}
+

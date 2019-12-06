@@ -1,0 +1,66 @@
+/*MajdiAbolil&&MahmodSawaid*/
+body{
+	background: linear-gradient(#f9f2f4,#e8e8e8,#f9f2f4);
+}
+
+
+#bord{
+			width: 75%;
+			margin : 15%;
+			border: 1px solid #cbcbcb;
+		}
+		#fmManager{
+			width: 50%;
+			margin: 1% auto;
+		}
+		#fmManager div{
+			margin-top: 20%;
+		}
+		#img_div{
+			width: 100%;
+			border: 1px solid #cbcbcb;
+		}
+		#img_div:after{
+			content: "";
+			display: block;
+			clear: both;
+		}
+		img{
+			float: left;
+			margin: 2%;
+			max-height: 200px;
+			width: 50%;	
+		}
+		#np{
+			height:35px;
+			color:green;
+			margin-bottom:1%;
+		}
+		input{
+			color:green;
+		}
+		#product{			
+			width: 49%;
+			border: 1px solid #cbcbcb;
+		}
+		#btnres{
+		float:right;
+		}
+		#IdInline{
+			width:85%;	
+		}
+		#addinfo{
+			float:right;
+			width: 49%;
+			border: 1px solid #cbcbcb;
+			margin: 1% auto;
+	
+		}
+		#fminfo{
+			width: 50%;
+			margin: 1% auto;
+		}
+		.form-line{
+			border-right: 1px solid #B29999;
+		}
+		
