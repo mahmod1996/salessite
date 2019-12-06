@@ -1,0 +1,7 @@
+Five popular products
+
+BaseID: 99 InfoId: 71 Color: #ffff00 Size: M Type: woman QuantityOrder: 12
+BaseID: 94 InfoId: 63 Color: #0080c0 Size: M Type: man QuantityOrder: 12
+BaseID: 94 InfoId: 62 Color: #008080 Size: L Type: man QuantityOrder: 10
+BaseID: 93 InfoId: 82 Color: #ffffff Size: XXL Type: man QuantityOrder: 9
+BaseID: 93 InfoId: 61 Color: #008080 Size: XS Type: man QuantityOrder: 6

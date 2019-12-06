@@ -1,0 +1,77 @@
+All Orders in Date: 2017-09-04
+1)  BaseOrderId: 108 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 101 ProductId: 60 Quantity: 1 Total: 100₪
+
+2)  BaseOrderId: 109 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 102 ProductId: 60 Quantity: 1 Total: 100₪
+
+3)  BaseOrderId: 110 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 103 ProductId: 61 Quantity: 1 Total: 150₪
+
+4)  BaseOrderId: 111 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 104 ProductId: 60 Quantity: 1 Total: 100₪
+
+5)  BaseOrderId: 112 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 105 ProductId: 60 Quantity: 1 Total: 100₪
+
+6)  BaseOrderId: 113 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 106 ProductId: 60 Quantity: 1 Total: 100₪
+
+7)  BaseOrderId: 114 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 107 ProductId: 71 Quantity: 1 Total: 350₪
+
+8)  BaseOrderId: 115 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 108 ProductId: 80 Quantity: 2 Total: 28₪
+
+9)  BaseOrderId: 116 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 109 ProductId: 60 Quantity: 10 Total: 1000₪
+
+10)  BaseOrderId: 116 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 110 ProductId: 71 Quantity: 5 Total: 1750₪
+
+11)  BaseOrderId: 117 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 111 ProductId: 81 Quantity: 1 Total: 11₪
+
+12)  BaseOrderId: 117 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 112 ProductId: 75 Quantity: 10 Total: 600₪
+
+13)  BaseOrderId: 118 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 113 ProductId: 62 Quantity: 10 Total: 1200₪
+
+14)  BaseOrderId: 118 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 114 ProductId: 73 Quantity: 5 Total: 2000₪
+
+15)  BaseOrderId: 118 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 115 ProductId: 76 Quantity: 11 Total: 330₪
+
+16)  BaseOrderId: 119 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Shipped
+Order Information: 
+Id Info Order: 116 ProductId: 79 Quantity: 12 Total: 144₪
+
+17)  BaseOrderId: 120 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 117 ProductId: 60 Quantity: 2 Total: 200₪
+
+18)  BaseOrderId: 120 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 118 ProductId: 62 Quantity: 10 Total: 1200₪
+
+19)  BaseOrderId: 122 Time: 12:56:12am User Address: shafraam User Email: mahmod24@windowslive.com Status: Processing
+Order Information: 
+Id Info Order: 119 ProductId: 71 Quantity: 12 Total: 4200₪
+
